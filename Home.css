@@ -14,7 +14,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 60px auto 0;
+  margin: 315px auto 0;
 }
 
 .u-section-1 .u-text-1 {
@@ -79,10 +79,6 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -28px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 11px;
+    margin-top: 22px;
   }
 }
